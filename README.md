@@ -1,4 +1,4 @@
-# floating_action_button
+# Floating Action Button
 
 this is a floating action button demo.
 
